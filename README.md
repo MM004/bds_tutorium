@@ -12,5 +12,6 @@
 ## 2. PCA + Linear Regression + Vizualisation (EDA)
 	- eda.ipynb 
 	- linear_reg.ipynb
+	- anova.ipynb
 	- pca.ipynb
 
